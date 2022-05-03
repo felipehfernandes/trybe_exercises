@@ -1,3 +1,7 @@
+# Exercícios
+
+## Parte 4 - O seu repositório no _**Github**_
+
 Pronto! Agora que você já é capaz de gerenciar localmente seus códigos e também enviá-los para o GitHub, é hora de colocar a casa em ordem!
 
 Antes de começar, siga as instruções da página sobre [Portfólio de Exercícios](https://app.betrybe.com/course/real-life-engineer/exercise-portfolio/) para criar a estrutura de diretórios que usará ao longo de todo o curso para guardar seus exercícios.
