@@ -3,3 +3,4 @@
 - Unix
 - Bash
 - Git
+- Python
