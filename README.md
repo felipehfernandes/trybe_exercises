@@ -6,7 +6,7 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 
 ## Web Development Fundamentals 
 
-##### Block 1: [Unix, Bash and Shell Script](https://github.com/felipehfernandes/trybe_exercises/tree/main/01_fundamentos/bloco-01-unix_e_bash) :heavy_check_mark:
+##### Block 1: [Unix, Bash and Shell Script](https://github.com/felipehfernandes/trybe_exercises/tree/main/01_fundamentals/bloco-01-unix_e_bash) :heavy_check_mark:
 
 - [x] 1.3 - Introduction - Unix & Shell
 - [x] 1.3 - Unix & Bash - Part 1
