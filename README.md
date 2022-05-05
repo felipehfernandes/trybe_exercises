@@ -18,11 +18,12 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 2.2 - Git & GitHub - Understanding Commands
 - [x] 2.3 - Internet - Understanding How It Works
 
-##### Block 3: [Introduction to HTML and CSS](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-03-introduction-to-html-and-css) 
+##### Block 3: [Introduction to HTML and CSS](https://github.com/felipehfernandes/trybe_exercises/tree/exercicios/3.1/01_fundamentals/bloco-03-intorucao_a_HTML_e_CSS/dia-1_HTML_e_CSS-estruturas_de_pagina) 
 
-- [ ] 3.1 - HTML & CSS - Page structures
+- [x] 3.1 - Introduction - HTML & CSS
+- [x] 3.1 - HTML & CSS - Page Structures
 - [ ] 3.2 - HTML & CSS - Getting Started with CSS
-- [ ] 3.3 - HTML & CSS - Selectors and positioning
+- [ ] 3.3 - HTML & CSS - Selectors and Positioning
 - [ ] 3.4 - Semantic HTML
 - [ ] 3.5 - Project - Lessons Learned
 
