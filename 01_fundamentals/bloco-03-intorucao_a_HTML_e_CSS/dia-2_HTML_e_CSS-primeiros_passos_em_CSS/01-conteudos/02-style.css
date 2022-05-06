@@ -1,0 +1,20 @@
+h1 {
+    font-family: sans-serif;
+  }
+
+  p {
+    font-weight: 600;
+    font-size: 3em;
+    text-align: center;
+    text-decoration: line-through;
+  }
+
+  body {
+    font-size: 16px;
+    font-style: italic;
+    line-height: 1em;
+  }
+
+  li {
+    background-color: aqua;
+  }
