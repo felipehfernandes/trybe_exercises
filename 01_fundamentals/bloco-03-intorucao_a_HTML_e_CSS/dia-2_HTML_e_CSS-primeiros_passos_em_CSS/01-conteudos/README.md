@@ -91,3 +91,29 @@ $ git push
 $ git pull
 ```
 11. Quando terminar os exercícios, seus códigos devem estar todos commitados na `branch` `exercicios/3.2`, e disponíveis no repositório remoto do `GitHub`. Pra finalizar, compartilhe o link da **Pull Request** no canal de **Code Review** para a monitoria e/ou colegas revisarem. Faça review você também, lembre-se que **é muito importante para o seu desenvolvimento ler o código de outras pessoas.** 🤜🏼🤛🏼
+
+## Exercício 1 - Introdução ao CSS
+```
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8">
+    <title>HTML</title>
+    <style></style>
+  </head>
+  <body>
+    <h1>Exercícios 3.2</h1>
+    <p>Qual é a sua cor favorita?</p>
+    <ul>
+      <li>Amarelo</li>
+      <li>Vermelho</li>
+      <li>Marrom</li>
+    </ul>
+  </body>
+</html>
+```
+
+1. Modifique o tamanho do `h1` para 65 pixels
+2. Modifique a cor do texto do `h1` para laranja
+3. Modifique a cor de fundo da lista não ordenada
+4. Crie uma classe para modificar a cor de fundo da tag `p` e da `ul` ao mesmo tempo
