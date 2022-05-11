@@ -157,6 +157,12 @@ a {
     margin-left: 50%;
 }
 
+.infos-gerais {
+    align-items: center;
+    height: auto;
+    width: auto;
+}
+
 .facts {
     float: left;
 }
