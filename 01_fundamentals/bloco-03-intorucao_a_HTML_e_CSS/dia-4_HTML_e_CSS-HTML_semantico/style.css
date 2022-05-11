@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Radio+Canada&display=swap');
+
+body {
+    font-family: 'RadioCanada', sans-serif;
+    font-size: 20px;
+    background-color: #F4FFF8;
+    scroll-behavior: smooth;
+}
+
+.img-stomatopoda {
+    width: 500px;
+}
+
+.header {
+    border-bottom: 1px solid #1C3738;
+    margin-bottom: 2rem;
+    display: flex;
+    position: fixed;
+    background-color: #8BAAAD;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.items {
+    display: block;
+    list-style: none;
+    text-align: center;
+    overflow: hidden;
+    padding: 1em;
+    width: 100%;
+}
+
+nav a {
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.menu {
+    float: right;
+}
