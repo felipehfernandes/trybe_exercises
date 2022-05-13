@@ -23,14 +23,14 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 3.1 - Introduction - HTML & CSS
 - [x] 3.1 - HTML & CSS - Page Structures
 - [x] 3.2 - HTML & CSS - Getting Started with CSS
-- [ ] 3.3 - HTML & CSS - Selectors and Positioning
-- [ ] 3.4 - Semantic HTML
-- [ ] 3.5 - Project - Lessons Learned
+- [x] 3.3 - HTML & CSS - Selectors and Positioning
+- [x] 3.4 - Semantic HTML
+- [x] 3.5 - Project - Lessons Learned
 
 ##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-04-introduction-to-javascript-and-programming-logic) 
 
-- [ ] 4.1 - JavaScript - Getting Started
-- [ ] 4.2 - JavaScript - Array and For loop
+- [x] 4.1 - JavaScript - Getting Started
+- [x] 4.2 - JavaScript - Array and For loop
 - [ ] 4.3 - JavaScript - Programming Logic and Algorithms
 - [ ] 4.4 - JavaScript - Objects and functions
 - [ ] 4.5 - Project - Playground Functions
