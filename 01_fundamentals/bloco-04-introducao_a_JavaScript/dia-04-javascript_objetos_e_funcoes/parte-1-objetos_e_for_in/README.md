@@ -1,4 +1,4 @@
-## Parte I. Objetos e For/In
+## Parte I - Objetos e For/In
 
 Usando o objeto abaixo, faça os exercícios a seguir:
 ```
@@ -21,14 +21,14 @@ Bem-vinda, Margarida
   recorrente: 'Sim'
 }
 ```
-3. Faça um for/in que mostre todas as chaves do objeto. Valor esperado no console:
+3. Faça um `for/in` que mostre todas as chaves do objeto. Valor esperado no console:
 ```
 personagem
 origem
 nota
 recorrente
 ```
-4. Faça um novo for/in, mas agora mostre todos os valores das chaves do objeto. Valor esperado no console:
+4. Faça um novo `for/in`, mas agora mostre todos os valores das chaves do objeto. Valor esperado no console:
 ```
 Margarida
 Pato Donald
@@ -57,8 +57,8 @@ let leitor = {
   ],
 };
 ```
-🚀 6. Acesse as chaves nome, sobrenome e titulo, que está dentro da chave livrosFavoritos, e faça um console.log no seguinte formato: "O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'".
-🚀 7. Adicione um novo livro favorito na chave livrosFavoritos, que é um array. Atribua a esta chave um objeto contendo as seguintes informações:
+🚀 6. Acesse as chaves `nome`, `sobrenome` e `titulo`, que está dentro da chave `livrosFavoritos`, e faça um `console.log` no seguinte formato: "O livro favorito de Julia Pessoa se chama 'O Pior Dia de Todos'".
+🚀 7. Adicione um novo livro favorito na chave `livrosFavoritos`, que é um `array`. Atribua a esta chave um objeto contendo as seguintes informações:
 ```
 {
   titulo: 'Harry Potter e o Prisioneiro de Azkaban',
@@ -66,4 +66,4 @@ let leitor = {
   editora: 'Rocco',
 }
 ```
-🚀 8. Acesse as chaves nome e livrosFavoritos e faça um console.log no seguinte formato: "Julia tem 2 livros favoritos".
+🚀 8. Acesse as chaves `nome` e `livrosFavoritos` e faça um `console.log` no seguinte formato: "Julia tem 2 livros favoritos".
