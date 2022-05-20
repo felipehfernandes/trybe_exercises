@@ -70,3 +70,9 @@ Os exercícios destacados com 🚀 são os fundamentais pra você ir bem no proj
 2. Crie um filho para `elementoOndeVoceEsta`.
 3. Crie um filho para `primeiroFilhoDoFilho`.
 4. A partir desse filho criado, acesse `terceiroFilho`.
+
+## Parte III - Removendo elementos
+
+Para praticar:
+
+1. Remova todos os elementos filhos de `paiDoPai` exceto `pai`, `elementoOndeVoceEsta` e `primeiroFilhoDoFilho`.
