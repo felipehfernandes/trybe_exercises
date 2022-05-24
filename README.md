@@ -18,7 +18,7 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 2.2 - Git & GitHub - Understanding Commands
 - [x] 2.3 - Internet - Understanding How It Works
 
-##### Block 3: [Introduction to HTML and CSS](https://github.com/felipehfernandes/trybe_exercises/tree/exercicios/3.1/01_fundamentals/bloco-03-intorucao_a_HTML_e_CSS/dia-1_HTML_e_CSS-estruturas_de_pagina) 
+##### Block 3: [Introduction to HTML and CSS](https://github.com/felipehfernandes/trybe_exercises/tree/exercicios/3.1/01_fundamentals/bloco-03-intorucao_a_HTML_e_CSS/dia-1_HTML_e_CSS-estruturas_de_pagina) :heavy_check_mark:
 
 - [x] 3.1 - Introduction - HTML & CSS
 - [x] 3.1 - HTML & CSS - Page Structures
@@ -27,7 +27,7 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 3.4 - Semantic HTML
 - [x] 3.5 - Project - Lessons Learned
 
-##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-04-introduction-to-javascript-and-programming-logic) 
+##### Block 4: [Introduction to JavaScript and Programming Logic](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-04-introduction-to-javascript-and-programming-logic) :heavy_check_mark:
 
 - [x] 4.1 - JavaScript - Getting Started
 - [x] 4.2 - JavaScript - Array and For loop
