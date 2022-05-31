@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
+    <title>Formulário</title>
+  </head>
+  <body>
+    <header class="form-header">
+      <h1>Formulário</h1>
+    </header>
+    <main>
+      <form action="" class="form-header" method="get">
+        <div class="form-content">
+          <fieldset class="fieldset">
+            <legend>Dados Pessoais</legend>
+            <label for="nome-completo">Nome Completo</label>
+            <input
+              class="input-dados"
+              type="text"
+              required
+              name="nome-completo"
+              placeholder="Insira o seu nome completo"
+              id="nome-completo"
+              minlength="10"
+              maxlength="40"
+            />
+            <label for="email">E-mail</label>
+            <input
+              class="input-dados"
+              type="email"
+              required
+              name="email"
+              placeholder="Insira o seu e-mail"
+              id="email"
+              minlength="10"
+              maxlength="50"
+            />
+          </fieldset>
+          <fieldset class="fieldset">
+            <legend>Destino Preferido</legend>
+
+            <input
+              type="radio"
+              name="destino-preferido"
+              id="destino-1"
+              value="cidade"
+            />
+            <label for="destino-1" class="label-destino">Cidade</label>
+
+            <input
+              type="radio"
+              name="destino-preferido"
+              id="destino-2"
+              value="campo"
+            />
+            <label for="destino-2" class="label-destino">Campo</label>
+
+            <input
+              type="radio"
+              name="destino-preferido"
+              id="destino-3"
+              value="praia"
+            />
+            <label for="destino-3" class="label-destino">Praia</label>
+
+            <input
+              type="radio"
+              name="destino-preferido"
+              id="destino-4"
+              value="montanhas"
+            />
+            <label for="destino-4">Montanhas</label>
+          </fieldset>
+
+          <fieldset class="fieldset">
+            <legend>
+              Por que vocẽ deveria ser a pessoa desenvolvedora a ganhar o
+              concurso TrybeTrip?
+            </legend>
+            <textarea
+              name="concurso-trybe"
+              id="concurso-trybe"
+              maxlength="500"
+              class="textarea-style"
+            ></textarea>
+          </fieldset>
+        </div>
+      </form>
+    </main>
+  </body>
+</html>
