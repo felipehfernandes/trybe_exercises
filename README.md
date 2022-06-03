@@ -42,18 +42,18 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 5.3 - JavaScript - Events
 - [x] 5.4 - JavaScript - Web Storage
 - [x] 5.5 - Fundamentals - JavaScript - Projects
-- [ ] 5.5 - Project - Pixel Art
-- [ ] 5.6 - Project - To-Do List
+- [x] 5.5 - Project - Pixel Art
+- [x] 5.6 - Project - To-Do List
 - [ ] 5.7 - (Bonus) Project - Guess the Color
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 - [ ] 5.7 - (Bonus) Project - Meme Generator
 
 ##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-06-html-css-forms-flexbox-and-responsive) 
 
-- [ ] 6.1 - HTML & CSS - Forms
-- [ ] 6.2 - JavaScript Libraries and CSS Frameworks
-- [ ] 6.3 - CSS Flexbox - Part 1
-- [ ] 6.4 - CSS Flexbox - Part 2
+- [x] 6.1 - HTML & CSS - Forms
+- [x] 6.2 - JavaScript Libraries and CSS Frameworks
+- [x] 6.3 - CSS Flexbox - Part 1
+- [x] 6.4 - CSS Flexbox - Part 2
 - [ ] 6.5 - Responsive CSS - Mobile First
 - [ ] 6.6 - Project - Trybewarts
 
