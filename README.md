@@ -35,7 +35,7 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 4.4 - JavaScript - Objects and functions
 - [x] 4.5 - Project - Playground Functions
 
-##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-05-javascript-dom-events-and-web-storage) 
+##### Block 5: [JavaScript: DOM, Events, and Web Storage](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-05-javascript-dom-events-and-web-storage) :heavy_check_mark:
 
 - [x] 5.1 - JavaScript - DOM and selectors
 - [x] 5.2 - JavaScript - Handling elements
@@ -48,14 +48,14 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [ ] 5.7 - (Bonus) Project - Mystery Letter
 - [ ] 5.7 - (Bonus) Project - Meme Generator
 
-##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-06-html-css-forms-flexbox-and-responsive) 
+##### Block 6: [HTML and CSS: Forms, Flexbox and Responsive](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-06-html-css-forms-flexbox-and-responsive) :heavy_check_mark:
 
 - [x] 6.1 - HTML & CSS - Forms
 - [x] 6.2 - JavaScript Libraries and CSS Frameworks
 - [x] 6.3 - CSS Flexbox - Part 1
 - [x] 6.4 - CSS Flexbox - Part 2
-- [ ] 6.5 - Responsive CSS - Mobile First
-- [ ] 6.6 - Project - Trybewarts
+- [x] 6.5 - Responsive CSS - Mobile First
+- [x] 6.6 - Project - Trybewarts
 
 ##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-07-introduction-to-javascript-es6-and-test-units) 
 
