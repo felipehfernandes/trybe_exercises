@@ -57,12 +57,12 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 6.5 - Responsive CSS - Mobile First
 - [x] 6.6 - Project - Trybewarts
 
-##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-07-introduction-to-javascript-es6-and-test-units) 
+##### Block 7: [Introduction to JavaScript ES6 and Unit Tests](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-07-introduction-to-javascript-es6-and-test-units) :heavy_check_mark:
 
-- [ ] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Unit Tests in JavaScript
-- [ ] 7.4 - Project - JavaScript Unit Testing
+- [x] 7.1 - JavaScript ES6 - let, const, arrow functions and template literals
+- [x] 7.2 - JavaScript ES6 - Objects
+- [x] 7.3 - Unit Tests in JavaScript
+- [x] 7.4 - Project - JavaScript Unit Testing
 
 ##### Block 8: [Higher Order Functions from JavaScript ES6](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-08-high-order-functions-javascript-es6) 
 
