@@ -64,13 +64,13 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 7.3 - Unit Tests in JavaScript
 - [x] 7.4 - Project - JavaScript Unit Testing
 
-##### Block 8: [Higher Order Functions from JavaScript ES6](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-08-high-order-functions-javascript-es6) 
+##### Block 8: [Higher Order Functions from JavaScript ES6](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-08-high-order-functions-javascript-es6) :heavy_check_mark:
 
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map and filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
-- [ ] 8.5 - Project - Zoo functions
+- [x] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [x] 8.2 - JavaScript ES6 - Higher Order Functions - map and filter
+- [x] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+- [x] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
+- [x] 8.5 - Project - Zoo functions
 
 ##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-09-javascript-asynchronous-and-promises) 
 
