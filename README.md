@@ -74,43 +74,43 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 
 ##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-09-javascript-asynchronous-and-promises) 
 
-- [ ] 9.1 - Asynchronous JavaScript and Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Project - Shopping Cart
+- [x] 9.1 - Asynchronous JavaScript and Callbacks
+- [x] 9.2 - JavaScript Promises
+- [x] 9.3 - Project - Shopping Cart
 
 ##### Block 10: [Automated testing with Jest](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-10-automated-tests-with-jest) 
 
-- [ ] 10.1 - First Steps in Jest
-- [ ] 10.2 - Jest - Asynchronous Testing
-- [ ] 10.3 - Jest - Simulating behaviors
-- [ ] 10.4 - Project - Asynchronous Jest and Mocking
+- [x] 10.1 - First Steps in Jest
+- [x] 10.2 - Jest - Asynchronous Testing
+- [x] 10.3 - Jest - Simulating behaviors
+- [x] 10.4 - Project - Asynchronous Jest and Mocking
 
 ## Front-end Development 
 
 ##### Block 11-A: [Introduction to React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-A-introduction-to-react) 
 
-- [ ] 11-A.1 - Introduction - Front-end
-- [ ] 11-A.1 - Introduction - React
-- [ ] 11-A.1 - React's 'Hello, world!'!
-- [ ] 11-A.2 - React Components
-- [ ] 11-A.3 - Project - Movie Cards Library
+- [x] 11-A.1 - Introduction - Front-end
+- [x] 11-A.1 - Introduction - React
+- [x] 11-A.1 - React's 'Hello, world!'!
+- [x] 11-A.2 - React Components
+- [x] 11-A.3 - Project - Movie Cards Library
 
 ##### Block 11-B: [Stateful Components, Events and Forms with React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-B-stateful-components-events-and-forms-with-react) 
 
-- [ ] 11-B.1 - Components with state and events
-- [ ] 11-B.2 - Forms in React
-- [ ] 11-B.3 - Project - Tryunfo
+- [x] 11-B.1 - Components with state and events
+- [x] 11-B.2 - Forms in React
+- [x] 11-B.3 - Project - Tryunfo
 
 ##### Block 12: [Component Lifecycle and React Router](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-12-life-cycle-components-and-react-router) 
 
-- [ ] 12.1 - Component life cycle
-- [ ] 12.2 - React Router
-- [ ] 12.3 - Project - TrybeTunes
+- [x] 12.1 - Component life cycle
+- [x] 12.2 - React Router
+- [x] 12.3 - Project - TrybeTunes
 
 ##### Block 13: Agile Methodologies 
 
-- [ ] 13.1 - Agile Methodologies
-- [ ] 13.2 - Project - Frontend Online Store
+- [x] 13.1 - Agile Methodologies
+- [x] 13.2 - Project - Frontend Online Store
 
 ##### Block 14: [Automated testing with React Testing Library](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-14-automated-testing-with-react-testing-library) 
 
