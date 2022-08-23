@@ -72,13 +72,13 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 8.4 - JavaScript ES6 - spread operator, rest parameter, destructuring and more
 - [x] 8.5 - Project - Zoo functions
 
-##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-09-javascript-asynchronous-and-promises) 
+##### Block 9: [Asynchronous JavaScript and Promises](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-09-javascript-asynchronous-and-promises) :heavy_check_mark:
 
 - [x] 9.1 - Asynchronous JavaScript and Callbacks
 - [x] 9.2 - JavaScript Promises
 - [x] 9.3 - Project - Shopping Cart
 
-##### Block 10: [Automated testing with Jest](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-10-automated-tests-with-jest) 
+##### Block 10: [Automated testing with Jest](https://github.com/guarize/trybe-exercises/tree/master/01-fundamentals/block-10-automated-tests-with-jest) :heavy_check_mark:
 
 - [x] 10.1 - First Steps in Jest
 - [x] 10.2 - Jest - Asynchronous Testing
@@ -87,7 +87,7 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 
 ## Front-end Development 
 
-##### Block 11-A: [Introduction to React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-A-introduction-to-react) 
+##### Block 11-A: [Introduction to React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-A-introduction-to-react) :heavy_check_mark:
 
 - [x] 11-A.1 - Introduction - Front-end
 - [x] 11-A.1 - Introduction - React
@@ -95,35 +95,35 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 11-A.2 - React Components
 - [x] 11-A.3 - Project - Movie Cards Library
 
-##### Block 11-B: [Stateful Components, Events and Forms with React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-B-stateful-components-events-and-forms-with-react) 
+##### Block 11-B: [Stateful Components, Events and Forms with React](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-11-B-stateful-components-events-and-forms-with-react) :heavy_check_mark:
 
 - [x] 11-B.1 - Components with state and events
 - [x] 11-B.2 - Forms in React
 - [x] 11-B.3 - Project - Tryunfo
 
-##### Block 12: [Component Lifecycle and React Router](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-12-life-cycle-components-and-react-router) 
+##### Block 12: [Component Lifecycle and React Router](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-12-life-cycle-components-and-react-router) :heavy_check_mark:
 
 - [x] 12.1 - Component life cycle
 - [x] 12.2 - React Router
 - [x] 12.3 - Project - TrybeTunes
 
-##### Block 13: Agile Methodologies 
+##### Block 13: Agile Methodologies :heavy_check_mark:
 
 - [x] 13.1 - Agile Methodologies
 - [x] 13.2 - Project - Frontend Online Store
 
-##### Block 14: [Automated testing with React Testing Library](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-14-automated-testing-with-react-testing-library) 
+##### Block 14: [Automated testing with React Testing Library](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-14-automated-testing-with-react-testing-library) :heavy_check_mark:
 
-- [ ] 14.1 - RTL - First Steps
-- [ ] 14.2 - RTL - Mocks and Inputs
-- [ ] 14.3 - RTL - Testing React Router
-- [ ] 14.4 - Project - Testing in React
+- [x] 14.1 - RTL - First Steps
+- [x] 14.2 - RTL - Mocks and Inputs
+- [x] 14.3 - RTL - Testing React Router
+- [x] 14.4 - Project - Testing in React
 
-##### Block 15: [State Management with Redux](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-15-state-management-with-redux) 
+##### Block 15: [State Management with Redux](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-15-state-management-with-redux) :heavy_check_mark:
 
-- [ ] 15.1 - Introduction to Redux - The Overall State of the Application
-- [ ] 15.2 - Using Redux in React
-- [ ] 15.3 - Using Redux in React - In Practice
+- [x] 15.1 - Introduction to Redux - The Overall State of the Application
+- [x] 15.2 - Using Redux in React
+- [x] 15.3 - Using Redux in React - In Practice
 - [ ] 15.4 - Using Redux in React - Asynchronous Actions
 - [ ] 15.5 - Synchronous testing with React-Redux
 - [ ] 15.6 - Project - TrybeWallet
