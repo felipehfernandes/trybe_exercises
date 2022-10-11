@@ -4,7 +4,7 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 
 > "The program has more than 1,500 hours of online classes, covering introduction to software development, front-end, back-end, computer science, software engineering, agile methodologies, and behavioral skills."
 
-## Web Development Fundamentals 
+## Web Development Fundamentals :heavy_check_mark:
 
 ##### Block 1: [Unix, Bash and Shell Script](https://github.com/felipehfernandes/trybe_exercises/tree/main/01_fundamentals/bloco-01-unix_e_bash) :heavy_check_mark:
 
@@ -124,34 +124,34 @@ Contains all the activities developed by [Felipe Hermes Fernandes](https://www.l
 - [x] 15.1 - Introduction to Redux - The Overall State of the Application
 - [x] 15.2 - Using Redux in React
 - [x] 15.3 - Using Redux in React - In Practice
-- [ ] 15.4 - Using Redux in React - Asynchronous Actions
-- [ ] 15.5 - Synchronous testing with React-Redux
-- [ ] 15.6 - Project - TrybeWallet
+- [x] 15.4 - Using Redux in React - Asynchronous Actions
+- [x] 15.5 - Synchronous testing with React-Redux
+- [x] 15.6 - Project - TrybeWallet
 
-##### Block 16: [Project Trivia Game](https://github.com/guarize/trivia-game-react) 
+##### Block 16: [Project Trivia Game](https://github.com/guarize/trivia-game-react) :heavy_check_mark:
 
-- [ ] 16.1 - Project Trivia Game
+- [x] 16.1 - Project Trivia Game
 
-##### Block 17: [Context API and React Hooks](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-17-context-api-and-react-hooks) 
+##### Block 17: [Context API and React Hooks](https://github.com/guarize/trybe-exercises/tree/master/02-front-end/block-17-context-api-and-react-hooks) :heavy_check_mark:
 
-- [ ] 17.1 - React Context API
-- [ ] 17.2 - React Hooks - useState and useContext
-- [ ] 17.3 - React Hooks - useEffect and custom Hooks
-- [ ] 17.4 - Project - StarWars Datatable with Context API and Hooks
+- [x] 17.1 - React Context API
+- [x] 17.2 - React Hooks - useState and useContext
+- [x] 17.3 - React Hooks - useEffect and custom Hooks
+- [x] 17.4 - Project - StarWars Datatable with Context API and Hooks
 
-##### Block 18: [Project - Recipes App](https://github.com/guarize/recipes-app) 
+##### Block 18: [Project - Recipes App](https://github.com/guarize/recipes-app) :heavy_check_mark:
 
-- [ ] 18.1 - Project - Recipes App
+- [x] 18.1 - Project - Recipes App
 
 ## Back-end Development :hourglass_flowing_sand:
 
-##### Block 19: [Docker: Using Containers]() 
+##### Block 19: [Docker: Using Containers]() :heavy_check_mark:
 
-- [ ] 19.1 - Introduction - Back-end
-- [ ] 19.1 - Using Containers - Docker
-- [ ] 19.2 - Image Manipulation and Creation in Docker
-- [ ] 19.3 - Orchestrating Containers with Docker Compose
-- [ ] 19.4 - Project - Docker Todo-List
+- [x] 19.1 - Introduction - Back-end
+- [x] 19.1 - Using Containers - Docker
+- [x] 19.2 - Image Manipulation and Creation in Docker
+- [x] 19.3 - Orchestrating Containers with Docker Compose
+- [x] 19.4 - Project - Docker Todo-List
 
 ##### Block 20: [Introduction to SQL]() 
 
